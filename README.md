@@ -21,13 +21,3 @@ Waits until the alarm time is reached.
 
 Plays a sound or shows a "Wake up!" message.
 
-🛠 Requirements
-
-Python 3 installed on your computer.
-
-Optional: a sound-playing library. You can use one of these:
-
-playsound
- → pip install playsound
-
-Or, on Windows, use the built-in winsound (no install needed).
