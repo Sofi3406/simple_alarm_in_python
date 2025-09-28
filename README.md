@@ -1,5 +1,5 @@
 # simple_alarm_in_python
-⏰ Simple Alarm Clock (Python)
+⏰ Simple Alarm Clock 
 📌 Overview
 
 This is a beginner-friendly Alarm Clock built with Python.
@@ -7,7 +7,7 @@ It lets you set a time (HH:MM) and will alert you when the time is reached by pl
 
 🐍 Written in pure Python.
 
-🎵 Plays an alarm sound (optional).
+🎵 Plays an alarm sound 
 
 🖥 Runs in the terminal (no GUI).
 
@@ -15,9 +15,9 @@ It lets you set a time (HH:MM) and will alert you when the time is reached by pl
 
 🚀 Features
 
-Set a single alarm time (e.g., 07:30).
+Set a single alarm time (e.g., 03:45).
 
 Waits until the alarm time is reached.
 
-Plays a sound or shows a "Wake up!" message.
+Plays a sound or shows a "Wake up! Wake up! Wake up!" message.
 
